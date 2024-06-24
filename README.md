@@ -1,2 +1,2 @@
 # Diamond-Price-Prediction-2024
-![(https://www.facebook.com/photo/?fbid=25347880224857549&set=gm.1120179732534161&idorvanity=1080575863161215&__cft__[0]=AZVhYyqrD4t9lSCa5HBnTiqneYT2PT29HI5ggGOM35FS2WRIbU3SJ8DlAAT2levdQ4AqJ-Cr46g3Rpg-dK0SrMl1OEJZ3x-Wsv6kIJ1-1jE6V690wn9cG2z5vKqXFqvaSPb705n6fzPwGjHcEb3CXHwJ7q7sojS6izC4LoHNs2JWYl5THvjTFEso-7FgaFZT1cqSdM0A6hYfk3p0S0zQlRKm&__tn__=EH-R)]
+![(https://www.facebook.com/photo/?fbid=25347880224857549&set=gm.1120179732534161&idorvanity=1080575863161215&)]
