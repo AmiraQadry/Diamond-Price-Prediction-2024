@@ -1,5 +1,5 @@
 # Diamond Price Prediction 2024
-![Diamond]([https://example.com/path/to/diamond_image.png](https://www.facebook.com/photo/?fbid=25347880224857549&set=gm.1120179732534161&idorvanity=1080575863161215))
+![Diamond](https://www.facebook.com/photo/?fbid=25347880224857549&set=gm.1120179732534161&idorvanity=1080575863161215)
 
 This project involves predicting the prices of diamonds using machine learning models, specifically Random Forest and Decision Tree regressors. 
 The dataset used for this project is sourced from Kaggle's "Diamond Price Prediction 2024" competition.
